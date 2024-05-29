@@ -1,7 +1,7 @@
 
 # Mausam
 
-Weather app with OpenWeatherMap API. Here i demonstrate the use of Modern Android development tools - (Kotlin, Architecture Components, MVVM, LiveData, Material Components).Built with Java for Android, this Weather App provides users with real-time weather updates for their current location and allows them to search for weather forecasts in other locations. Leveraging Weather API, the app fetches hourly weather updates for the current day and weekly forecasts. A standout feature is its voice-activated location search, offering enhanced accessibility and user experience. Recent search locations are conveniently stored using SharedPreferences for quick access. Developed with libraries like Picasso and Volley, this app offers a seamless weather tracking experience.
+Weather app with OpenWeatherMap API. Here i demonstrate the use of Modern Android development tools - (java, Architecture Components, MVVM, LiveData, Material Components).Built with Java for Android, this Weather App provides users with real-time weather updates for their current location and allows them to search for weather forecasts in other locations. Leveraging Weather API, the app fetches hourly weather updates for the current day and weekly forecasts. A standout feature is its voice-activated location search, offering enhanced accessibility and user experience. Recent search locations are conveniently stored using SharedPreferences for quick access. Developed with libraries like Picasso and Volley, this app offers a seamless weather tracking experience.
 
 
 ## ARCHITECTURE
