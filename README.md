@@ -1,7 +1,7 @@
 
 # Mausam
 
-Weather app with OpenWeatherMap API. Here i demonstrate the use of Modern Android development tools - (java, Architecture Components, MVVM, LiveData, Material Components).Built with Java for Android, this Weather App provides users with real-time weather updates for their current location and allows them to search for weather forecasts in other locations. Leveraging Weather API, the app fetches hourly weather updates for the current day and weekly forecasts. A standout feature is its voice-activated location search, offering enhanced accessibility and user experience. Recent search locations are conveniently stored using SharedPreferences for quick access. Developed with libraries like Picasso and Volley, this app offers a seamless weather tracking experience.
+Weather app with OpenWeatherMap API. Here i demonstrate the use of Modern Android development tools - (kotlin, Architecture Components, MVVM, LiveData, Material Components).Built with Java for Android, this Weather App provides users with real-time weather updates for their current location and allows them to search for weather forecasts in other locations. Leveraging Weather API, the app fetches hourly weather updates for the current day and weekly forecasts. A standout feature is its voice-activated location search, offering enhanced accessibility and user experience. Recent search locations are conveniently stored using SharedPreferences for quick access. Developed with libraries like Picasso and Volley, this app offers a seamless weather tracking experience.
 
 
 ## ARCHITECTURE
@@ -14,7 +14,7 @@ This app uses MVVM (Model View View-Model) architecture.
 ![Screenshot_20210428-050132](https://github.com/stranger0407/Mausam-/assets/113629315/0b39cc8c-c750-4869-a42b-ba2f97cc9092)
 ![Screenshot_20210428-055510](https://github.com/stranger0407/Mausam-/assets/113629315/c5df0b4b-5c5f-454e-8222-a5bda4d4874b)
 ## Built With 🛠
-**jAVA**- programming language for Android development.   
+**kotlin**- programming language for Android development.   
 **Coroutines** - For asynchronous and more..
 Android Architecture Components - Collection of libraries that help you design robust, testable, and maintainable apps.    
 **LiveData** - Data objects that notify views when the underlying database changes.
